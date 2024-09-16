@@ -1,0 +1,21 @@
+{
+	"name": "react-native-shared-components",
+	"version": "1.0.0",
+	"description": "A shared React Native component library.",
+	"main": "src/index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yourusername/react-native-shared-components.git"
+	},
+	"author": "Your Name",
+	"license": "ISC",
+	"keywords": [
+		"react-native",
+		"shared-components",
+		"textinput"
+	],
+	"devDependencies": {
+		"react": "^18.0.0",
+		"react-native": "^0.75.0"
+	}
+}
