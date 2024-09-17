@@ -5,7 +5,7 @@
 	"main": "src/index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/yourusername/react-native-shared-components.git"
+		"url": "https://github.com/vikrantup72/react-native-shared-components.git"
 	},
 	"author": "Your Name",
 	"license": "ISC",
